@@ -68,7 +68,7 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 <img src = "./Documents/Illustration/figma1.png" alt = "user journey" align = "center" width = "80%" />
 
-_PS: This is the * INITIAL * design_
+_PS: This is the **INITIAL** design_
 <br />
 
 The anime list filter on the main page is accessible to everyone, allowing users to browse and refine their selections with ease. However, for those looking to engage more deeply—such as reading, creating, and commenting on blogs—a quick sign-up or login is required. This setup ensures full access to our interactive features for registered users.
