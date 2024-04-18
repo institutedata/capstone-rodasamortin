@@ -38,5 +38,11 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
     * _Expectations:_ They expect the platform to provide features that enhance their content's visibility, such as featured reviews or integration with social media platforms. Additionally, they need tools to protect their content from being spoiled for other users.
 
-## <u> Product Description </u>
+## <u> II. Product Description </u> ##
+
+### A. Architectural Diagram ###
+
+<img src = "./images/AnimeBasket_Diagram.jpg" alt= "sturcture diagram" align= "center" width= "50" height= "50">
+
+
 
