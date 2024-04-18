@@ -52,7 +52,7 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 <p>
     <mark>
-        <b> 1 </b> Pain Point
+        1 Pain Point
     </mark>
 <p>
 
