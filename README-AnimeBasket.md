@@ -50,11 +50,9 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
 To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a targeted approach by addressing each pain point with one distinct feature and its corresponding design. 
 
-<p>
-    <mark>
-        1 Pain Point
-    </mark>
-<p>
+
+==1 Pain Point==
+  
 
 ** Three Pain Points **
 
