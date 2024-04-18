@@ -50,7 +50,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
 To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a targeted approach by addressing each pain point with one distinct feature and its corresponding design. 
 
-<code style = "color : gold"> _1_ Pain Point, </code>
+<code style="color : gold"> ** 1 ** Pain Point, </code>
 
 _Three Pain Points_
 
