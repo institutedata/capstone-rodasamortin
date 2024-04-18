@@ -46,9 +46,15 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
  ### B. User Stories ###
 
- I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
+ As an anime' viewer, I've had my fair share of frustrations with spoilers and non-customisable list of the shows that I want to watch. I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
 
- * - Spoilers
+To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a targeted approach by addressing each pain point with one distinct feature and its corresponding design. 
+
+<code style = "color : gold"> _1_ Pain Point, </code>
+
+_Three Pain Points_
+
+1. Spoilers
 
 
 
