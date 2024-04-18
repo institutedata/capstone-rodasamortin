@@ -44,5 +44,11 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
 <img src = "./Documents/Illustration/AnimeBasket_Diagram.jpg" alt= "structure diagram" align= "center" width= "80%" />
 
+ ### B. User Stories ###
+
+ I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
+
+ * - Spoilers
+
 
 
