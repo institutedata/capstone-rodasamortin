@@ -45,7 +45,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 <img src = "./Documents/Illustration/AnimeBasket_Diagram.jpg" alt= "structure diagram" align= "center" width= "80%" />
 <br />
 <br />
-<img src = "./Documents/Illustration/blog_comments.png" alt = "blog-comment diagram" align= "center" width = "70%" />
+<img src = "./Documents/Illustration/blog_comments.png" alt = "blog comment diagram" align= "center" width = "70%" />
 
  ### B. User Stories ###
 
@@ -64,4 +64,6 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 3. Customised Anime List -> Minimalist design (Animelist websites have superlative lists in general.)
 
 
+### C. User Flow / Wireframe Design *** ###
 
+<img src = "./Documents/Illustrations/Wireframe_UserFlow.png" alt = "Wireframe" align = "center" width = "80%" />
