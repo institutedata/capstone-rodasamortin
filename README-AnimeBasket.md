@@ -66,4 +66,4 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 ### C. User Flow / Wire frame Design ###
 
-<img src = "./Documents/Illustration/figma1.png" alt = "user journey" align = "center" width = "50%" />
+<img src = "./Documents/Illustration/figma1.png" alt = "user journey" align = "center" width = "80%" />
