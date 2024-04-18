@@ -43,7 +43,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 ### A. Architectural Diagram ###
 
 <img src = "./Documents/Illustration/AnimeBasket_Diagram.jpg" alt= "structure diagram" align= "center" width= "80%" />
-<img src = "./Documents/Illustration/blog_comments.jpg" alt = "blog-comment diagram" width = "70%" />
+<img src = "./Documents/Illustration/blog_comments.png" alt = "blog-comment diagram" width = "70%" />
 
  ### B. User Stories ###
 
