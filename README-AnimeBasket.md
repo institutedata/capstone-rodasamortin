@@ -54,9 +54,11 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 <code style = "color : yellow"> <b>1</b> Pain Point : <b>1</b> Feature : <b>1</b> Design</code>
   
 
-** Three Pain Points **
+** Three Pain Points - Feature **
 
-1. Spoilers
+1. Spoilers -> Spoiler tag in the comment section
+2. Limited sharing with Friends -> Privacy / Friend request (Keep spoil-mongers away!)
+3. Customised Anime List -> Minimalist design (Animelist websites have superlative lists in general.)
 
 
 
