@@ -42,7 +42,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
 ### A. Architectural Diagram ###
 
-<img src = "./images/AnimeBasket_Diagram.jpg" alt= "sturcture diagram" align= "center" width= "50" height= "50">
+<img src = "./images/AnimeBasket_Diagram.jpg" alt= "sturcture diagram" align= "center" width= "50" height= "50" />
 
 
 
