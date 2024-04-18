@@ -66,4 +66,4 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 ### C. User Flow / Wireframe Design ###
 
-<img src = "./Documents/Illustrations/wireframe_userflow.png" alt = "Wireframe" align = "center" width = "80%" />
+<img src = "./Documents/Illustration/wireframe_userflow.png" alt = "Wireframe" align = "center" width = "80%" />
