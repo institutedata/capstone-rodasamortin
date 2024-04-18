@@ -52,7 +52,7 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 <code style="color : gold"> ** 1 ** Pain Point, </code>
 
-_Three Pain Points_
+** Three Pain Points **
 
 1. Spoilers
 
