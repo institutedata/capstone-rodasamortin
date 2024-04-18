@@ -25,4 +25,18 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
  * _Users (Anime Viewers)_
     * _Why they care:_ Users are central to the website's purpose. They care about the software because it provides a platform to track, share, and discuss anime without the risk of encountering spoilers.
+
     * _Expectations:_ Users expect a user-friendly, reliable, and engaging platform that effectively blocks or hides spoilers, offers comprehensive tracking features, and fosters community interaction through comments and shared lists.
+
+* _Developers_
+    * _Why they care:_ These stakeholders are involved in the design, development, and ongoing technical support of the website. Their primary concern is the technical prowess and innovation of the software.
+
+    * _Expectations:_ Developers look for a software architecture that is maintainable, scalable, and flexible for future enhancements. They expect a clear roadmap for development and efficient tools for deploying updates and fixes.
+
+* _Content Creators (Animer Reviewers, Bloggers)_
+    * _Why they care:_ Content creators use the platform to build an audience and share their insights on anime. They rely on the website to connect with like-minded viewers and to gain visibility in the anime community.
+
+    * _Expectations:_ They expect the platform to provide features that enhance their content's visibility, such as featured reviews or integration with social media platforms. Additionally, they need tools to protect their content from being spoiled for other users.
+
+## <u> Product Description </u>
+
