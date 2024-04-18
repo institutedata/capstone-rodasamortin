@@ -64,6 +64,6 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 3. Customised Anime List -> Minimalist design (Animelist websites have superlative lists in general.)
 
 
-### C. User Flow / Wireframe Design *** ###
+### C. User Flow / Wireframe Design ###
 
-<img src = "./Documents/Illustrations/Wireframe_UserFlow.png" alt = "Wireframe" align = "center" width = "80%" />
+<img src = "./Documents/Illustrations/wireframe_userflow.png" alt = "Wireframe" align = "center" width = "80%" />
