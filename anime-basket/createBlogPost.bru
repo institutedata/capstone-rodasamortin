@@ -1,0 +1,19 @@
+meta {
+  name: createBlogPost
+  type: http
+  seq: 10
+}
+
+post {
+  url: http://localhost:8080/api/blog/create
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "user_id": 2,
+    "title": "Fourth Post",
+    "content": "Chuck burgdoggen hamburger capicola, cupim ham jerky. Short ribs picanha jowl biltong, ribeye shoulder landjaeger pork belly sirloin leberkas pastrami. Ham hock filet mignon beef spare ribs kevin pork loin ham short ribs jerky shoulder. Short loin kevin salami, burgdoggen beef bresaola tenderloin doner. Jerky buffalo burgdoggen, rump spare ribs corned beef picanha ham pork loin sirloin hamburger. Rump biltong doner, prosciutto jowl kielbasa hamburger burgdoggen bacon. T-bone ham venison ground round, short loin tenderloin beef rump ball tip."
+  }
+}

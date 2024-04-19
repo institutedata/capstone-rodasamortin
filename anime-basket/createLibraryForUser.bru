@@ -1,0 +1,18 @@
+meta {
+  name: createLibraryForUser
+  type: http
+  seq: 8
+}
+
+post {
+  url: http://localhost:8080/api/library/create
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "user_id": 2,
+    "watching_status": "Test"
+  }
+}

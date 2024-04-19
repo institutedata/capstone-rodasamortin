@@ -1,0 +1,17 @@
+meta {
+  name: updateUserByID
+  type: http
+  seq: 3
+}
+
+put {
+  url: http://localhost:8080/api/users/1
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+  "password": "555555"
+  }
+}
