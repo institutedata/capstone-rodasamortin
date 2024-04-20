@@ -183,9 +183,17 @@ _Third Party API Testing_
 ### Create MySQL Container
 
 Run the following command to create a MySQL container:
-\```bash
+```bash
 docker run -p 3306:3306 --name anime_basket_mysql -e MYSQL_ROOT_PASSWORD=password -d mysql:8.3.0
-\```
+```
+### Start MySQL Container
+
+```bash
+docker start anime_basket_mysql
+docker exec -it anime_basket_mysql bash
+mysql -u root -p
+```
+
 
 
 
