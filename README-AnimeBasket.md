@@ -68,10 +68,12 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 
 **Plan**
 - Get inspo from AnimeList website (longest existing animelist website)
-_Rationale:_ Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
+<br />
+<u>Rationale</u> Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
 
-- Focus 3 major pain points
-_Rationale:_ Avoid getting trapped in the rabbit hole of desired features
+- Focus 3 major pain points.
+<br/>
+<u>Rationale</u> Avoid getting trapped in the rabbit hole of desired features
              Securing the quality, scalability and maintenance of each feature before adding new ones.
 
 
