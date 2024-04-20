@@ -218,5 +218,11 @@ mysql -u root -p
 2. https://lawsofux.com/
 3. https://hub.docker.com/_/mysql
 4. https://docs.api.jikan.moe/#section/Information/JSON-Notes
+5. IOD Module slides
 
+*** Books ***
+Soft skills to become a great colleague and user advocate.
+
+1. The Pragmatic Programmer by David Thomas
+2. The Design of Everyday Things by Andrew Hunt
 
