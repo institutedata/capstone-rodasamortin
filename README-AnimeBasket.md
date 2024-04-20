@@ -223,6 +223,5 @@ mysql -u root -p
 *** Books ***
 Soft skills to become a great colleague and user advocate.
 
-1. The Pragmatic Programmer by David Thomas
-2. The Design of Everyday Things by Andrew Hunt
-
+1. The Pragmatic Programmer by David Thomas, Andrew Hunt
+2. The Design of Everyday Things by Don Norman
