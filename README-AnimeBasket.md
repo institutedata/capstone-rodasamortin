@@ -66,7 +66,13 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 2. Limited sharing with Friends -> Privacy / Friend request (Keep spoil-mongers away!)
 3. Customised Anime List -> Minimalist design (Animelist websites have superlative lists in general.)
 
+**Plan**
+- Get inspo from AnimeList website (longest existing animelist website)
+_Rationale:_ Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
 
+- Focus 3 major pain points
+_Rationale:_ Avoid getting trapped in the rabbit hole of desired features
+             Securing the quality, scalability and maintenance of each feature before adding new ones.
 
 
 ### C. User Flow / Wire frame Design ###
@@ -78,16 +84,6 @@ _PS: This is the **INITIAL** design_
 
 The anime list filter on the main page is accessible to everyone, allowing users to browse and refine their selections with ease. However, for those looking to engage more deeply—such as reading, creating, and commenting on blogs—a quick sign-up or login is required. This setup ensures full access to our interactive features for registered users.
 
-
-**Plan**
-- Get inspo from AnimeList website (longest existing animelist website)
-_Rationale:_ Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
-
-- Focus 3 major pain points
-_Rationale:_ Avoid getting trapped in the rabbit hole of desired features
-             Securing the quality, scalability and maintenance of each feature before adding new ones.
-        
-            
 
 <img src = "./Documents/Illustration/wireframe_1.png" alt = "draft welcome page" align= "center" width = "70%" />
 <br />
