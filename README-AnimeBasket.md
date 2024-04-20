@@ -92,10 +92,10 @@ I applied the MVC structure applied in different paths.
 
 _Frontend:_
 
--** HTML, CSS, JavaScript: **- Main usage for UI
--** React.js **- jS library for user interfaces
--** Material UI ** - library of React components to implement design system in my app.
--** Jikan API ** - Anime list API. The documentation relied heavily on its documentation.
+-**HTML, CSS, JavaScript:**- Main usage for UI
+-**React.js**- jS library for user interfaces
+-**Material UI** - library of React components to implement design system in my app.
+-**Jikan API** - Anime list API. The documentation relied heavily on its documentation.
 
 _Backend:_
 
@@ -120,11 +120,18 @@ _Frontend Testing_
 
 
 <img src = "./Documents/Illustration/bruno_apiusers.png" alt = "fake user db" align = "center" width = "80%" />
+<br />
+<br />
+<img src = "./Documents/Illustration/bruno_blog_post.png" alt = "user id - blog id - update time connection" align = "center" width = "80%" />
+<br />
+<br />
+
+
 
 _Third Party API Testing_
 
 -**Jikan API** - Used its documentation as a basis on how the desired/requested data will be rendered. 
                - Used Bruno, Docker, MySQL to ensure data flow.
 
-_See screenshots below_
+
 
