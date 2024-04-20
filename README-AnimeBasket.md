@@ -117,10 +117,11 @@ _Backend Testing_
 <br />
 <br />
 <img src = "./Documents/Illustration/dockerdb_2.png" alt = "blog and spoiler feature" align = "center" width = "80%" />
+
 _Frontend Testing_
 
 -**Browser Dev Tools**- To inspect elements, check network requests, and debugging.
--**Console** To log and debug jS code.
+-**Console**- To log and debug jS code.
 
 
 <img src = "./Documents/Illustration/bruno_apiusers.png" alt = "fake user db" align = "center" width = "80%" />
@@ -137,4 +138,9 @@ _Third Party API Testing_
                - Used Bruno, Docker, MySQL to ensure data flow.
 
 
+<img src = "./Documents/Illustration/animebasket_spoilertag_hide.png" alt = "blocked comment tagged as spoiler" align = "center" width = "80%" />
 
+<br />
+<br />
+
+<img src = "./Documents/Illustration/animebasket_spoilertag_show.png" alt = "show I'm a spoiler" align = "center" width = "80%" />
