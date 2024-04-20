@@ -33,7 +33,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
     * _Expectations:_ Developers look for a software architecture that is maintainable, scalable, and flexible for future enhancements. They expect a clear roadmap for development and efficient tools for deploying updates and fixes.
 
-* _Content Creators (Animer Reviewers, Bloggers)_
+* _Content Creators (Anime Reviewers, Bloggers)_
     * _Why they care:_ Content creators use the platform to build an audience and share their insights on anime. They rely on the website to connect with like-minded viewers and to gain visibility in the anime community.
 
     * _Expectations:_ They expect the platform to provide features that enhance their content's visibility, such as featured reviews or integration with social media platforms. Additionally, they need tools to protect their content from being spoiled for other users.
@@ -50,14 +50,14 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
  ### B. User Stories ###
 
- <img src = "./Documents/Illustration/draft_anime.png" alt= "concept draft" align = "center" width= "80%" />
+ <img src = "./Documents/Illustration/draft_anime.png" alt= "written concept draft" align = "center" width= "80%" />
 
  As an anime' viewer, I've had my fair share of frustrations with spoilers and non-customisable list of the shows that I want to watch. I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
 
 To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a targeted approach by addressing each pain point with one distinct feature and its corresponding design. 
 
 
-<code style = "color : yellow"> <b>1</b> Pain Point : <b>1</b> Feature : <b>1</b> Design</code>
+# <code style = "color : yellow"> <b>1</b> Pain Point : <b>1</b> Feature : <b>1</b> Design</code> #
   
 
 *** Three Pain Points - Feature ***
