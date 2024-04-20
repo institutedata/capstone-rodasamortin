@@ -220,10 +220,8 @@ mysql -u root -p
 4. https://docs.api.jikan.moe/#section/Information/JSON-Notes
 5. IOD Module slides
 
-*** Books ***
-
-<br />
-Soft skills to become a great colleague and user advocate.
+## Books
+To work on my soft skills to become a great colleague and user advocate.
 
 1. The Pragmatic Programmer by David Thomas, Andrew Hunt
 2. The Design of Everyday Things by Don Norman
