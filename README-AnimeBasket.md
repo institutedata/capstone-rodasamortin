@@ -184,21 +184,16 @@ _Third Party API Testing_
      git clone <git@github.com:institutedata/capstone-rodasamortin.git>
 
   2. Navigate to the backend directory:
+
      cd anime-basket\sql
 
   3. Install dependencies using npm:
+
      npm install
 
   4. Start the backend server:
-     npm start
 
-  2. Navigate to the backend directory:
-     cd backend
-
-  3. Install dependencies using npm:
-     npm install
-
-  4. Start the backend server:
+  5. Start the backend server:
      npm start
 
 
