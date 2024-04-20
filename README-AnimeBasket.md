@@ -180,8 +180,13 @@ _Third Party API Testing_
 
 **Note**: Ensure that the `.env` file is in the root folder.
 
-### How to Create MySQL Container
+##### Create MySQL Container #####
 
 Run the following command to create a MySQL container:
 ```bash
 docker run -p 3306:3306 --name anime_basket_mysql -e MYSQL_ROOT_PASSWORD=password -d mysql:8.3.0
+
+<br />
+docker start anime_basket_mysql
+docker exec -it anime_basket_mysql bash
+mysql -u root -p
