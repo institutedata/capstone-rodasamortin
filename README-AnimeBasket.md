@@ -221,7 +221,7 @@ mysql -u root -p
 5. IOD Module slides
 
 ## Books
-To work on my soft skills to become a great colleague and user advocate.
+To work on my soft skills. I want become a great developer and user advocate.
 
 1. The Pragmatic Programmer by David Thomas, Andrew Hunt
 2. The Design of Everyday Things by Don Norman
