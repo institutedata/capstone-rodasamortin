@@ -148,8 +148,8 @@ _Backend Testing_
 
 _Frontend Testing_
 
-**Browser Dev Tools:**To inspect elements, check network requests, and debugging.
-**Console:** To log and debug jS code.
+- **Browser Dev Tools:**To inspect elements, check network requests, and debugging.
+- **Console:** To log and debug jS code.
 
 
 <img src = "./Documents/Illustration/bruno_apiusers.png" alt = "fake user db" align = "center" width = "80%" />
