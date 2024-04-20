@@ -113,9 +113,13 @@ _Backend Testing_
 - **Bruno**: used to test the connection between data import and export to and from the database (server and web database) — to ensure data integrity and functionality.
 - **Docker - MySQL**: To check database - server - API connection.
 
+<img src = "./Documents/Illustration/dockerdb_1.png" alt = "show database" align = "center" width = "80%" />
+<br />
+<br />
+<img src = "./Documents/Illustration/dockerdb_2.png" alt = "blog and spoiler feature" align = "center" width = "80%" />
 _Frontend Testing_
 
--**Browser Dev Tools**- To inspect elements, check etwork requests, and debugging.
+-**Browser Dev Tools**- To inspect elements, check network requests, and debugging.
 -**Console** To log and debug jS code.
 
 
@@ -125,7 +129,6 @@ _Frontend Testing_
 <img src = "./Documents/Illustration/bruno_blog_post.png" alt = "user id - blog id - update time connection" align = "center" width = "80%" />
 <br />
 <br />
-
 <img src = "./Documents/Illustration/bruno_spoilerfeature.png" alt = "user id - blog id - update time - spoiler tag connection" align = "center" width = "80%" />
 
 _Third Party API Testing_
