@@ -120,10 +120,10 @@ I applied the MVC structure applied in different paths.
 
 _Frontend:_
 
--**HTML, CSS, JavaScript:** Main usage for UI
--**React.js:** jS library for user interfaces
--**Material UI:** library of React components to implement design system in my app.
--**Jikan API:** Anime list API. The documentation relied heavily on its documentation.
+- **HTML, CSS, JavaScript:** Main usage for UI
+- **React.js:** jS library for user interfaces
+- **Material UI:** library of React components to implement design system in my app.
+- **Jikan API:** Anime list API. The documentation relied heavily on its documentation.
 
 _Backend:_
 
@@ -148,7 +148,7 @@ _Backend Testing_
 
 _Frontend Testing_
 
-- **Browser Dev Tools:**To inspect elements, check network requests, and debugging.
+- **Browser Dev Tools:** To inspect elements, check network requests, and debugging.
 - **Console:** To log and debug jS code.
 
 
@@ -162,7 +162,7 @@ _Frontend Testing_
 
 _Third Party API Testing_
 
--**Jikan API** - Used its documentation as a basis on how the desired/requested data will be rendered. 
+- **Jikan API:** Used its documentation as a basis on how the desired/requested data will be rendered. 
                - Used Bruno, Docker, MySQL to ensure data flow.
 
 
