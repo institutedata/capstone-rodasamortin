@@ -93,9 +93,9 @@ I applied the MVC structure applied in different paths.
 _Frontend:_
 
 -**HTML, CSS, JavaScript:**- Main usage for UI
--**React.js**- jS library for user interfaces
--**Material UI** - library of React components to implement design system in my app.
--**Jikan API** - Anime list API. The documentation relied heavily on its documentation.
+-**React.js:**- jS library for user interfaces
+-**Material UI:** - library of React components to implement design system in my app.
+-**Jikan API:** - Anime list API. The documentation relied heavily on its documentation.
 
 _Backend:_
 
