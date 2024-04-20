@@ -47,6 +47,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 <br />
 <img src = "./Documents/Illustration/blog_comments.png" alt = "blog comment diagram" align= "center" width = "70%" />
 
+
  ### B. User Stories ###
 
  As an anime' viewer, I've had my fair share of frustrations with spoilers and non-customisable list of the shows that I want to watch. I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
@@ -72,3 +73,58 @@ _PS: This is the **INITIAL** design_
 <br />
 
 The anime list filter on the main page is accessible to everyone, allowing users to browse and refine their selections with ease. However, for those looking to engage more deeply—such as reading, creating, and commenting on blogs—a quick sign-up or login is required. This setup ensures full access to our interactive features for registered users.
+
+
+
+
+### D. Features ###
+
+* User Account - Sign in or sign up
+* Anime Search Bar - To filter anime' choices (Jikan API)
+* Blog
+* Comments
+* Spoiler Feature
+
+
+### E. Tech Stack ###
+
+I applied the MVC structure applied in different paths.
+
+_Frontend:_
+
+-** HTML, CSS, JavaScript: **- Main usage for UI
+-** React.js **- jS library for user interfaces
+-** Material UI ** - library of React components to implement design system in my app.
+-** Jikan API ** - Anime list API. The documentation relied heavily on its documentation.
+
+_Backend:_
+
+  - **Node.js:** JavaScript runtime environment.
+  - **Express.js:** Node.js web app framework
+  - **MySQL:** Database management system.
+  - **Bruno:** API development and testing tool.
+  - **Docker:** Cointainer for packaging, distributing, and running applications.
+
+
+### F. Testing ###
+
+_Backend Testing_
+
+- **Bruno**: used to test the connection between data import and export to and from the database (server and web database) — to ensure data integrity and functionality.
+- **Docker - MySQL**: To check database - server - API connection.
+
+_Frontend Testing_
+
+-**Browser Dev Tools**- To inspect elements, check etwork requests, and debugging.
+-**Console** To log and debug jS code.
+
+
+<img src = "./Documents/Illustration/bruno_apiusers.png" alt = "fake user db" align = "center" width = "80%" />
+
+_Third Party API Testing_
+
+-**Jikan API** - Used its documentation as a basis on how the desired/requested data will be rendered. 
+               - Used Bruno, Docker, MySQL to ensure data flow.
+
+_See screenshots below_
+

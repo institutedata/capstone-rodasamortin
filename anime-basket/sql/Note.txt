@@ -13,4 +13,8 @@ mysql -u root -p
 
 CREATE DATABASE animeBasketDB;
 
+SHOW DATABASES;
+USE animeBasketDB;
+SHOW TABLES;
+
 Run both with "npm run dev" and "npm run db"
