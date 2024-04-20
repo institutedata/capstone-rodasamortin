@@ -126,7 +126,7 @@ _Frontend Testing_
 <br />
 <br />
 
-
+<img src = "./Documents/Illustration/bruno_spoilerfeature.png" alt = "user id - blog id - update time - spoiler tag connection" align = "center" width = "80%" />
 
 _Third Party API Testing_
 
