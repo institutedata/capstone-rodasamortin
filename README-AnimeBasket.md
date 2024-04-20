@@ -62,7 +62,7 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 # <code style = "color : yellow"> <b>1</b> Pain Point : <b>1</b> Feature : <b>1</b> Design</code> #
   
 
-*** Three Pain Points - Feature ***
+## 3 Paint Points
 
 1. Spoilers -> Spoiler tag in the comment section
 2. Limited sharing with Friends -> Privacy / Friend request (Keep spoil-mongers away!)
@@ -113,6 +113,9 @@ The anime list filter on the main page is accessible to everyone, allowing users
 * Comments
 * Spoiler Feature
 
+### Feature Screen ###
+
+<img src = "./Documents/Illustration/feature_screen.png" alt = "criteria to meet for every feature req" align= "center" width = "70%" />
 
 ### E. Tech Stack ###
 
