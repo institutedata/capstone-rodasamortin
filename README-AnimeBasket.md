@@ -50,7 +50,7 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 
  ### B. User Stories ###
 
- <img src = "./Documents/Illustration/draft_anime.jpg" alt= "concept draft" align = "center" width= "80%" />
+ <img src = "./Documents/Illustration/draft_anime.png" alt= "concept draft" align = "center" width= "80%" />
 
  As an anime' viewer, I've had my fair share of frustrations with spoilers and non-customisable list of the shows that I want to watch. I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
 
