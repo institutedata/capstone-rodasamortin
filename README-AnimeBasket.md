@@ -143,4 +143,4 @@ _Third Party API Testing_
 <br />
 <br />
 
-<img src = "./Documents/Illustration/animebasket_spoilertag_show.png" alt = "show Im a spoiler" align = "center" width = "80%" />
+<img src = "./Documents/Illustration/animebasket_spoiler_show.png" alt = "show Im a spoiler" align = "center" width = "80%" />
