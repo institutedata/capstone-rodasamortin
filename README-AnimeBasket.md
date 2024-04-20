@@ -71,11 +71,14 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 **Plan**
 - Get inspo from AnimeList website (longest existing animelist website)
 <br />
-<u>Rationale</u> Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
+
+_Rationale_ Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. (Jakob’s Law, Laws of UX Design)
+<br />
 
 - Focus 3 major pain points.
 <br/>
-<u>Rationale</u> Avoid getting trapped in the rabbit hole of desired features
+
+_Rationale_  Avoid getting trapped in the rabbit hole of desired features
              Securing the quality, scalability and maintenance of each feature before adding new ones.
 
 
@@ -172,3 +175,13 @@ _Third Party API Testing_
 
 ### G. Installation ###
 
+_Backend_
+## Instructions
+
+**Note**: Ensure that the `.env` file is in the root folder.
+
+### How to Create MySQL Container
+
+Run the following command to create a MySQL container:
+```bash
+docker run -p 3306:3306 --name anime_basket_mysql -e MYSQL_ROOT_PASSWORD=password -d mysql:8.3.0
