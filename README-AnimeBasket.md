@@ -221,6 +221,8 @@ mysql -u root -p
 5. IOD Module slides
 
 *** Books ***
+
+<br />
 Soft skills to become a great colleague and user advocate.
 
 1. The Pragmatic Programmer by David Thomas, Andrew Hunt
