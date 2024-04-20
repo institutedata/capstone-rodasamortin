@@ -74,7 +74,20 @@ _PS: This is the **INITIAL** design_
 
 The anime list filter on the main page is accessible to everyone, allowing users to browse and refine their selections with ease. However, for those looking to engage more deeply—such as reading, creating, and commenting on blogs—a quick sign-up or login is required. This setup ensures full access to our interactive features for registered users.
 
+<img src = "./Documents/Illustration/wireframe_1.png" alt = "draft welcome page" align= "center" width = "70%" />
+<br />
+<br />
 
+<img src = "./Documents/Illustration/wireframe_1.png" alt = "draft welcome page" align= "center" width = "70%" />
+<br />
+<br />
+<img src = "./Documents/Illustration/wireframe_user.png" alt = "account user page" align= "center" width = "70%" />
+<br />
+<br />
+<img src = "./Documents/Illustration/wireframe_blog_navbar_comment_spoiler.png" alt = "draft UI blog navbar comment and spoiler tag" align= "center" width = "70%" />
+<br />
+<br />
+<img src = "./Documents/Illustration/wireframe_friendlist.png" alt = "drafts friendlist page" align= "center" width = "70%" />
 
 
 ### D. Features ###
