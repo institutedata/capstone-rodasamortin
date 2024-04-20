@@ -219,7 +219,15 @@ docker exec -it anime_basket_mysql bash
 ```bash
 mysql -u root -p
 ```
+<br />
+
+### FrontEnd
 
 
+## References
+1. https://github.com/institutedata/capstone-rodasamortin
+2. https://lawsofux.com/
+3. https://hub.docker.com/_/mysql
+4. https://docs.api.jikan.moe/#section/Information/JSON-Notes
 
 
