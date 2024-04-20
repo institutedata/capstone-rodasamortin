@@ -219,6 +219,7 @@ mysql -u root -p
 3. https://hub.docker.com/_/mysql
 4. https://docs.api.jikan.moe/#section/Information/JSON-Notes
 5. IOD Module slides
+6. https://myanimelist.net/ (Caution: This might contain a Not Safe For Work content)
 
 ## Books
 To work on my soft skills. I want become a great developer and user advocate.
