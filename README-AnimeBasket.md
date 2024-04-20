@@ -175,8 +175,32 @@ _Third Party API Testing_
 
 ### G. Installation ###
 
-### _Backend_ ###
-##### Instructions ####
+### Backend ###
+
+### Instructions ###
+
+  1. Clone this repository:
+    
+     git clone <git@github.com:institutedata/capstone-rodasamortin.git>
+
+  2. Navigate to the backend directory:
+     cd anime-basket\sql
+
+  3. Install dependencies using npm:
+     npm install
+
+  4. Start the backend server:
+     npm start
+
+  2. Navigate to the backend directory:
+     cd backend
+
+  3. Install dependencies using npm:
+     npm install
+
+  4. Start the backend server:
+     npm start
+
 
 **Note**: Ensure that the `.env` file is in the root folder.
 
@@ -190,7 +214,14 @@ docker run -p 3306:3306 --name anime_basket_mysql -e MYSQL_ROOT_PASSWORD=passwor
 
 ```bash
 docker start anime_basket_mysql
+```
+
+### Connect from the Command Line
+```bash
 docker exec -it anime_basket_mysql bash
+```
+### Log into MySQL
+```bash
 mysql -u root -p
 ```
 
