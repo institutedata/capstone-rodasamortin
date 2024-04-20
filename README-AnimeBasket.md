@@ -45,10 +45,12 @@ Additionally, the project's relevance extends beyond anime, offering valuable in
 <img src = "./Documents/Illustration/AnimeBasket_Diagram.jpg" alt= "structure diagram" align= "center" width= "80%" />
 <br />
 <br />
-<img src = "./Documents/Illustration/blog_comments.png" alt = "blog comment diagram" align= "center" width = "70%" />
+<img src = "./Documents/Illustration/blog_comments.png" alt = "blog comment diagram" align = "center" width = "70%" />
 
 
  ### B. User Stories ###
+
+ <img src = "./Documents/Illustration/draft_anime.jpg" alt= "concept draft" align = "center" width= "80%" />
 
  As an anime' viewer, I've had my fair share of frustrations with spoilers and non-customisable list of the shows that I want to watch. I've honed in on the _three pain points_ I consistently encounter when visiting anime websites.
 
@@ -65,6 +67,8 @@ To ensure top-notch quality, scalability, and seamless maintenance, I'm taking a
 3. Customised Anime List -> Minimalist design (Animelist websites have superlative lists in general.)
 
 
+
+
 ### C. User Flow / Wire frame Design ###
 
 <img src = "./Documents/Illustration/figma1.png" alt = "user journey" align = "center" width = "80%" />
@@ -78,9 +82,6 @@ The anime list filter on the main page is accessible to everyone, allowing users
 <br />
 <br />
 
-<img src = "./Documents/Illustration/wireframe_1.png" alt = "draft welcome page" align= "center" width = "70%" />
-<br />
-<br />
 <img src = "./Documents/Illustration/wireframe_user.png" alt = "account user page" align= "center" width = "70%" />
 <br />
 <br />
@@ -157,3 +158,6 @@ _Third Party API Testing_
 <br />
 
 <img src = "./Documents/Illustration/animebasket_spoiler_show.png" alt = "show Im a spoiler" align = "center" width = "80%" />
+
+### G. Installation ###
+
