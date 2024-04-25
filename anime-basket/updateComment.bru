@@ -1,0 +1,18 @@
+meta {
+  name: updateComment
+  type: http
+  seq: 18
+}
+
+put {
+  url: http://localhost:8080/api/comment/3
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "body": "Not a spoiler!",
+    "is_spoiler": false
+  }
+}

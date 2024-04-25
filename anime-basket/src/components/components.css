@@ -1,0 +1,16 @@
+ul.result-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1em;
+    list-style: none;
+    list-style-type: none;
+    padding: 0;
+}
+
+.image-result {
+    padding: 1em;
+}
+
+.navbar-link {
+    color: #ffffff;
+}

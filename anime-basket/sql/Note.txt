@@ -1,0 +1,20 @@
+NOTE: .env file should be in the root folder
+
+How to create mysql container:
+docker run -p 3306:3306 --name anime_basket_mysql -e MYSQL_ROOT_PASSWORD=password -d mysql:8.3.0 
+
+How to start the mysql container created above:
+docker start anime_basket_mysql
+
+To connect from the command line
+docker exec -it anime_basket_mysql bash 
+
+mysql -u root -p
+
+CREATE DATABASE animeBasketDB;
+
+SHOW DATABASES;
+USE animeBasketDB;
+SHOW TABLES;
+
+Run both with "npm run dev" and "npm run db"
